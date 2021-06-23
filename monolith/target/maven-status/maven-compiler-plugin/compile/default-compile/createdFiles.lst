@@ -1,0 +1,14 @@
+com\ksm\monolith\service\BrandService.class
+com\ksm\monolith\model\Country.class
+com\ksm\monolith\repository\BelongingRepository.class
+com\ksm\monolith\model\Person.class
+com\ksm\monolith\model\Wadah.class
+com\ksm\monolith\service\PersonService.class
+com\ksm\monolith\controller\PersonController.class
+com\ksm\monolith\repository\PersonRepository.class
+com\ksm\monolith\model\Belonging.class
+com\ksm\monolith\MonolithApplication.class
+com\ksm\monolith\model\Brand.class
+com\ksm\monolith\repository\BrandRepository.class
+com\ksm\monolith\service\BelongingService.class
+com\ksm\monolith\controller\BelongingController.class
